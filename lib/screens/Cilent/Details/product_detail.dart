@@ -113,7 +113,7 @@ class _product_detailState extends State<product_detail> {
               color: Colors.blue, borderRadius: BorderRadius.circular(25)),
           child: Center(
               child: const Text(
-            'Add to cart',
+            'Add to cart.....................',
             style: TextStyle(color: Colors.white, fontSize: 20),
           ))),
     );
